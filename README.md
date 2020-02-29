@@ -10,4 +10,4 @@
 - 819\. [Most Common Word](https://github.com/meng-z/leetcode/tree/master/819_most_common_word)
 - 937\. [Reorder Data in Log Files](https://github.com/meng-z/leetcode/tree/master/937_reorder_data_in_log_files)
 - 994\. Rotting Oranges
-- 1099\. Two Sum Less Than K
+- 1099\. [Two Sum Less Than K](https://github.com/meng-z/leetcode/tree/master/1099_two_sum_less_than_k)
