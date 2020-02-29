@@ -11,19 +11,19 @@ class Solution:
         # lower paragraph
         paragraph = paragraph.lower()
         words = re.split('[!?\',;.\s]', paragraph)
-        
+
         word_occur = defaultdict(int)
         for word in words:
             if len(word) == 0:
                 continue
             if word not in banned:
                 word_occur[word] += 1
-     
+
         most_occur_word = ''
         max_occur = 0
         for word, occur in word_occur.items():
             if occur > max_occur:
                 max_occur = occur
                 most_occur_word = word
-                
+
         return most_occur_word
