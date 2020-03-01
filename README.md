@@ -15,7 +15,7 @@
 
 ## Facebook
 ### Easy
-- 67\. [Add Binary]()
+- 67\. [Add Binary](https://github.com/meng-z/leetcode/tree/master/67_add_binary)
 - 125\. [Valid Palindrome]()
 - 278\. [First Bad Version]()
 - 349\. [Intersection of Two Arrays](https://github.com/meng-z/leetcode/tree/master/349_intersection_of_two_arrays)
