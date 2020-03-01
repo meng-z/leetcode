@@ -17,7 +17,7 @@
 ### Easy
 - 67\. [Add Binary](https://github.com/meng-z/leetcode/tree/master/67_add_binary)
 - 125\. [Valid Palindrome](https://github.com/meng-z/leetcode/tree/master/125_valid_palindrome)
-- 278\. [First Bad Version]()
+- 278\. [First Bad Version](https://github.com/meng-z/leetcode/tree/master/278_first_bad_version)
 - 349\. [Intersection of Two Arrays](https://github.com/meng-z/leetcode/tree/master/349_intersection_of_two_arrays)
 - 415\. [Add Strings]()
 - 543\. [Diameter of Binary Tree]()
