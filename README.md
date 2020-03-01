@@ -15,21 +15,21 @@
 
 ## Facebook
 ### Easy
-- 67.\ [Add Binary]()
-- 125.\ [Valid Palindrome]()
-- 278.\ [First Bad Version]()
-- 349.\ [Intersection of Two Arrays](https://github.com/meng-z/leetcode/tree/master/349_intersection_of_two_arrays)
-- 415.\ [Add Strings]()
-- 543.\ [Diameter of Binary Tree]()
-- 680.\ [Valid Palindrome II]()
-- 824.\ [Goat Latin]()
-- 953.\ [Verifying an Alien Dictionary]()
+- 67\. [Add Binary]()
+- 125\. [Valid Palindrome]()
+- 278\. [First Bad Version]()
+- 349\. [Intersection of Two Arrays](https://github.com/meng-z/leetcode/tree/master/349_intersection_of_two_arrays)
+- 415\. [Add Strings]()
+- 543\. [Diameter of Binary Tree]()
+- 680\. [Valid Palindrome II]()
+- 824\. [Goat Latin]()
+- 953\. [Verifying an Alien Dictionary]()
 
 ## Google
 ### Easy
 - 1\. [Two Sum](https://github.com/meng-z/leetcode/tree/master/1_two_sum)
-- 299.\ [Bulls and Cows]()
-- 359.\ [Logger Rate Limiter]()
-- 459.\ [Repeated Substring Pattern]()
-- 482.\ [License Key Formatting]()
-- 1170.\ [Compare Strings by Frequency of the Smallest Character]()
+- 299\. [Bulls and Cows]()
+- 359\. [Logger Rate Limiter]()
+- 459\. [Repeated Substring Pattern]()
+- 482\. [License Key Formatting]()
+- 1170\. [Compare Strings by Frequency of the Smallest Character]()
