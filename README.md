@@ -21,7 +21,7 @@
 - 349\. [Intersection of Two Arrays](https://github.com/meng-z/leetcode/tree/master/349_intersection_of_two_arrays)
 - 415\. [Add Strings](https://github.com/meng-z/leetcode/tree/master/415_add_strings)
 - 543\. [Diameter of Binary Tree](https://github.com/meng-z/leetcode/tree/master/543_diameter_of_binary_tree)
-- 680\. [Valid Palindrome II]()
+- 680\. [Valid Palindrome II](https://github.com/meng-z/leetcode/tree/master/680_valid_palindrome_ii)
 - 824\. [Goat Latin](https://github.com/meng-z/leetcode/tree/master/824_goat_latin)
 - 953\. [Verifying an Alien Dictionary](https://github.com/meng-z/leetcode/tree/master/953_verifying_an_alien_dictionary)
 
