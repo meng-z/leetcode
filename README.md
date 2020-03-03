@@ -22,7 +22,7 @@
 - 415\. [Add Strings](https://github.com/meng-z/leetcode/tree/master/415_add_strings)
 - 543\. [Diameter of Binary Tree](https://github.com/meng-z/leetcode/tree/master/543_diameter_of_binary_tree)
 - 680\. [Valid Palindrome II]()
-- 824\. [Goat Latin]()
+- 824\. [Goat Latin](https://github.com/meng-z/leetcode/tree/master/824_goat_latin)
 - 953\. [Verifying an Alien Dictionary](https://github.com/meng-z/leetcode/tree/master/953_verifying_an_alien_dictionary)
 
 ## Google
