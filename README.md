@@ -23,7 +23,7 @@
 - 543\. [Diameter of Binary Tree](https://github.com/meng-z/leetcode/tree/master/543_diameter_of_binary_tree)
 - 680\. [Valid Palindrome II]()
 - 824\. [Goat Latin]()
-- 953\. [Verifying an Alien Dictionary]()
+- 953\. [Verifying an Alien Dictionary](https://github.com/meng-z/leetcode/tree/master/953_verifying_an_alien_dictionary)
 
 ## Google
 ### Easy
