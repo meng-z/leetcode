@@ -28,7 +28,7 @@
 ## Google
 ### Easy
 - 1\. [Two Sum](https://github.com/meng-z/leetcode/tree/master/1_two_sum)
-- 299\. [Bulls and Cows]()
+- 299\. [Bulls and Cows](https://github.com/meng-z/leetcode/tree/master/299_bulls_and_cows)
 - 359\. [Logger Rate Limiter]()
 - 459\. [Repeated Substring Pattern]()
 - 482\. [License Key Formatting]()
